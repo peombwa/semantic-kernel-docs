@@ -64,7 +64,7 @@ Now that you know what a plugin is, let's take a look at how to create one. With
    :::column-end:::
 :::row-end:::
 
-Below is an sample called `Summarize` that can be found in the [samples folder](https://github.com/microsoft/semantic-kernel/tree/main/samples/skills/SummarizeSkill/Summarize) in the GitHub repository.
+Below is a sample called `Summarize` that can be found in the [samples folder](https://github.com/microsoft/semantic-kernel/tree/main/samples/skills/SummarizeSkill/Summarize) in the GitHub repository.
 
 :::code language="txt" source="~/../semantic-kernel-samples/samples/skills/SummarizeSkill/Summarize/skprompt.txt":::
 
